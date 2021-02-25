@@ -1,0 +1,12 @@
+.contact-row div {
+    margin-bottom: 10px;
+}
+
+.contact-row input{
+    width: 100%;
+}
+
+.title-text{
+    font-weight: bold;
+    color: #999;
+}

@@ -1,0 +1,26 @@
+#menu li:first-child {
+    border-left: 1px solid #000;
+}
+
+#menu li {
+    display: inline;
+}
+
+#menu .menu-item {
+    padding: 0px 30px;
+    border-right: 1px solid #000;
+    opacity: 0.6;
+    cursor: pointer;
+    color: '#fff';
+    font-size: 23px;
+    text-decoration: none;
+}
+
+#menu li:hover {
+    opacity: 1;
+    background-color: #999;
+}
+
+.menu-active {
+    color: red;
+}

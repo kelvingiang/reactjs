@@ -1,0 +1,53 @@
+#member-list {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+#member-list .member-title-row {
+    font-size: 25px;
+    background-color: #ccc;
+    display: flex;
+}
+
+#member-list .member-title-row div {
+    border-right: 1px solid #333;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+#member-list .member-title-row :last-child{
+    border-right: 0px solid #333;
+}
+
+#member-list .member-row {
+    background-color: white;
+    display: flex;
+    padding: 0 3px;
+    min-height:50px;
+    align-items: center;
+}
+
+#member-list .member-row:nth-child(odd)
+{
+ background-color:#cdcdcd;
+}
+.item-stt {
+    width: 10%;
+}
+
+.item-name {
+    width: 20%;
+}
+
+.item-age{
+    width: 10%
+}
+
+.item-phone {
+    width: 20%;
+}
+
+.item-address{
+    width:40%
+}

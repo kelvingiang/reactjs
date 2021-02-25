@@ -1,0 +1,37 @@
+[
+    {
+        "ID"    : 1,
+        "name"  : "ly van hoa",
+        "address" : "25 tran hung dao",
+        "phone" : "032658998",
+        "age"     : 30
+    },
+    {
+        "ID"    : 2,
+        "name"  : "tran thi hong",
+        "address" : "36 ly thanh ton",
+        "phone" : "986985855",
+        "age"     : 25
+    },
+    {
+        "ID"    : 3,
+        "name"  : "nguyen van tung",
+        "address" : "12/5 le dai hanh",
+        "phone" : "8448453222",
+         "age"     : 50
+    },
+    {
+        "ID"    : 4,
+        "name"  : "le van luong",
+        "address" : "85 bui thi xuan",
+        "phone" : "54656987",
+        "age"     : 18
+    },
+    {
+        "ID"    : 6,
+        "name"  : "tran thu thuy",
+        "address" : "85  huong vuong",
+        "phone" : "582825585",
+        "age"     : 35
+    }
+]

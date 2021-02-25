@@ -1,0 +1,50 @@
+[
+    {
+        "id": "01",
+        "name": "san pham 1",
+        "price": "123000",
+        "img": "/images/1.jpg"
+    },
+    {
+        "id": "02",
+        "name": "san pham 2",
+        "price": "320000",
+        "img": "/images/2.jpg"
+    },
+    {
+        "id": "03",
+        "name": "san pham 3",
+        "price": "3363636",
+        "img": "/images/3.jpg"
+    },
+    {
+        "id": "04",
+        "name": "san pham 4",
+        "price": "4588474",
+        "img": "/images/4.jpg"
+    },
+    {
+        "id": "05",
+        "name": "san pham 5",
+        "price": "5698998",
+        "img": "/images/1.jpg"
+    },
+    {
+        "id": "06",
+        "name": "san pham 6",
+        "price": "6565665",
+        "img": "/images/2.jpg"
+    },
+    {
+        "id": "07",
+        "name": "san pham 7",
+        "price": "7474712",
+        "img": "/images/4.jpg"
+    },
+    {
+        "id": "08",
+        "name": "san pham 8",
+        "price": "852554564",
+        "img": "/images/1.jpg"
+    }
+]
